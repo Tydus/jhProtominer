@@ -1,4 +1,5 @@
-﻿
+daz260
+.1
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jhProtominer", "jhProtominer\jhProtominer.vcproj", "{CE976CD8-8581-4103-A95E-0E86BD7C0F7B}"
@@ -24,3 +25,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
+Amount: 0.60000000 LTC
+Label: tydus
+Message: ((99% for your eyes only))
